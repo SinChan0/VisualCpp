@@ -1,0 +1,15 @@
+C:\Users\lenovo\Documents\Class_Notes_2k17\TechTalk\TechTalk\TechTalk\bin\Debug\TechTalk.exe.config
+C:\Users\lenovo\Documents\Class_Notes_2k17\TechTalk\TechTalk\TechTalk\bin\Debug\TechTalk.exe
+C:\Users\lenovo\Documents\Class_Notes_2k17\TechTalk\TechTalk\TechTalk\bin\Debug\TechTalk.pdb
+C:\Users\lenovo\Documents\Class_Notes_2k17\TechTalk\TechTalk\TechTalk\bin\Debug\TechTalk.xml
+C:\Users\lenovo\Documents\Class_Notes_2k17\TechTalk\TechTalk\TechTalk\obj\Debug\TechTalk.Form1.resources
+C:\Users\lenovo\Documents\Class_Notes_2k17\TechTalk\TechTalk\TechTalk\obj\Debug\TechTalk.Resources.resources
+C:\Users\lenovo\Documents\Class_Notes_2k17\TechTalk\TechTalk\TechTalk\obj\Debug\TechTalk.vbproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Class_Notes_2k17\TechTalk\TechTalk\TechTalk\obj\Debug\TechTalk.exe
+C:\Users\lenovo\Documents\Class_Notes_2k17\TechTalk\TechTalk\TechTalk\obj\Debug\TechTalk.xml
+C:\Users\lenovo\Documents\Class_Notes_2k17\TechTalk\TechTalk\TechTalk\obj\Debug\TechTalk.pdb
+C:\Users\lenovo\Documents\Class_Notes_2k17\TechTalk\TechTalk\TechTalk\obj\Debug\TechTalk.login.resources
+C:\Users\lenovo\Documents\Class_Notes_2k17\TechTalk\TechTalk\TechTalk\obj\Debug\TechTalk.login1.resources
+C:\Users\lenovo\Documents\Class_Notes_2k17\TechTalk\TechTalk\TechTalk\obj\Debug\TechTalk.Question.resources
+C:\Users\lenovo\Documents\Class_Notes_2k17\TechTalk\TechTalk\TechTalk\obj\Debug\TechTalk.Cummunity.resources
+C:\Users\lenovo\Documents\Class_Notes_2k17\TechTalk\TechTalk\TechTalk\obj\Debug\TechTalk.Discussion.resources
